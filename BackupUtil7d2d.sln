@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackupUtil7d2d", "BackupUtil7d2d\BackupUtil7d2d.csproj", "{FB84F49E-B7E5-44EB-8A60-58F831768BEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsumer", "TestConsumer\TestConsumer.csproj", "{9F4DE4D2-129D-46BD-BBA0-B08D9555F1F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FB84F49E-B7E5-44EB-8A60-58F831768BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB84F49E-B7E5-44EB-8A60-58F831768BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB84F49E-B7E5-44EB-8A60-58F831768BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F4DE4D2-129D-46BD-BBA0-B08D9555F1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4DE4D2-129D-46BD-BBA0-B08D9555F1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4DE4D2-129D-46BD-BBA0-B08D9555F1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4DE4D2-129D-46BD-BBA0-B08D9555F1F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
