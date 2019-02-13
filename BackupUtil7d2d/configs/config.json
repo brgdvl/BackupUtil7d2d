@@ -1,0 +1,11 @@
+{
+	sftp:{
+		"host":"",
+		"port":"",
+		"username":"",
+		"password":"",
+		"remotedir":"",
+		"savedir":"",
+		"localbackupdir":""
+	}
+}
